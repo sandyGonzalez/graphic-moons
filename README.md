@@ -7,7 +7,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This project requires Node 10.16.3 version or later
+This project requires Node 10.19.0 version or later
 
 ### Installation
 
