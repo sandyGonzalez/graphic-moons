@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/sandyGonzalez/graphic-moons.git/static/css/main.84adb296.chunk.css",
-    "main.js": "/sandyGonzalez/graphic-moons.git/static/js/main.dbb3cd8c.chunk.js",
-    "main.js.map": "/sandyGonzalez/graphic-moons.git/static/js/main.dbb3cd8c.chunk.js.map",
-    "runtime-main.js": "/sandyGonzalez/graphic-moons.git/static/js/runtime-main.4e24790c.js",
-    "runtime-main.js.map": "/sandyGonzalez/graphic-moons.git/static/js/runtime-main.4e24790c.js.map",
-    "static/js/2.5300ca0f.chunk.js": "/sandyGonzalez/graphic-moons.git/static/js/2.5300ca0f.chunk.js",
-    "static/js/2.5300ca0f.chunk.js.map": "/sandyGonzalez/graphic-moons.git/static/js/2.5300ca0f.chunk.js.map",
-    "index.html": "/sandyGonzalez/graphic-moons.git/index.html",
-    "static/css/main.84adb296.chunk.css.map": "/sandyGonzalez/graphic-moons.git/static/css/main.84adb296.chunk.css.map",
-    "static/js/2.5300ca0f.chunk.js.LICENSE.txt": "/sandyGonzalez/graphic-moons.git/static/js/2.5300ca0f.chunk.js.LICENSE.txt"
+    "main.css": "/graphic-moons/static/css/main.84adb296.chunk.css",
+    "main.js": "/graphic-moons/static/js/main.dbb3cd8c.chunk.js",
+    "main.js.map": "/graphic-moons/static/js/main.dbb3cd8c.chunk.js.map",
+    "runtime-main.js": "/graphic-moons/static/js/runtime-main.69cce6bd.js",
+    "runtime-main.js.map": "/graphic-moons/static/js/runtime-main.69cce6bd.js.map",
+    "static/js/2.5300ca0f.chunk.js": "/graphic-moons/static/js/2.5300ca0f.chunk.js",
+    "static/js/2.5300ca0f.chunk.js.map": "/graphic-moons/static/js/2.5300ca0f.chunk.js.map",
+    "index.html": "/graphic-moons/index.html",
+    "static/css/main.84adb296.chunk.css.map": "/graphic-moons/static/css/main.84adb296.chunk.css.map",
+    "static/js/2.5300ca0f.chunk.js.LICENSE.txt": "/graphic-moons/static/js/2.5300ca0f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4e24790c.js",
+    "static/js/runtime-main.69cce6bd.js",
     "static/js/2.5300ca0f.chunk.js",
     "static/css/main.84adb296.chunk.css",
     "static/js/main.dbb3cd8c.chunk.js"
