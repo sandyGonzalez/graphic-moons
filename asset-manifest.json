@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/graphic-moons/static/css/main.84adb296.chunk.css",
-    "main.js": "/graphic-moons/static/js/main.dbb3cd8c.chunk.js",
-    "main.js.map": "/graphic-moons/static/js/main.dbb3cd8c.chunk.js.map",
+    "main.css": "/graphic-moons/static/css/main.a314e064.chunk.css",
+    "main.js": "/graphic-moons/static/js/main.f17494c5.chunk.js",
+    "main.js.map": "/graphic-moons/static/js/main.f17494c5.chunk.js.map",
     "runtime-main.js": "/graphic-moons/static/js/runtime-main.69cce6bd.js",
     "runtime-main.js.map": "/graphic-moons/static/js/runtime-main.69cce6bd.js.map",
     "static/js/2.5300ca0f.chunk.js": "/graphic-moons/static/js/2.5300ca0f.chunk.js",
     "static/js/2.5300ca0f.chunk.js.map": "/graphic-moons/static/js/2.5300ca0f.chunk.js.map",
     "index.html": "/graphic-moons/index.html",
-    "static/css/main.84adb296.chunk.css.map": "/graphic-moons/static/css/main.84adb296.chunk.css.map",
+    "static/css/main.a314e064.chunk.css.map": "/graphic-moons/static/css/main.a314e064.chunk.css.map",
     "static/js/2.5300ca0f.chunk.js.LICENSE.txt": "/graphic-moons/static/js/2.5300ca0f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.69cce6bd.js",
     "static/js/2.5300ca0f.chunk.js",
-    "static/css/main.84adb296.chunk.css",
-    "static/js/main.dbb3cd8c.chunk.js"
+    "static/css/main.a314e064.chunk.css",
+    "static/js/main.f17494c5.chunk.js"
   ]
 }
