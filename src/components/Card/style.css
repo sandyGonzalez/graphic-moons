@@ -1,84 +1,74 @@
-
-.card-container{
-    height: 250px;
-    width: 280px;
-    margin: 5% 0 5% 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    align-content: center;
-    justify-items: center;
-
+.card-container {
+  height: 250px;
+  width: 280px;
+  margin: 5% 0 5% 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  justify-items: center;
 }
-.card-content{
-    margin: 5%;
-    width: 100%;
+.card-content {
+  margin: 5%;
+  width: 100%;
+}
 
-  }
+.card-info {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  justify-items: center;
+  flex-direction: row;
+  border-bottom: solid 2px rgb(189, 186, 186);
+}
 
-  .card-info{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    align-content: center;
-    justify-items: center;
-    flex-direction: row;
-  }
-  
-.left-green{
+.left-green {
   color: rgb(124, 198, 116);
-  width: 50%; 
+  width: 50%;
   text-align: left;
-  border-bottom: solid rgb(189, 186, 186);
-  font-size: 12px;
-}
-  
-.right-green{
-  color: #23511E;
-  width: 50%; 
-  text-align: right;
-  border-bottom:  solid rgb(189, 186, 186);
   font-size: 12px;
 }
 
-.left-blue{
+.right-green {
+  color: #23511e;
+  width: 50%;
+  text-align: right;
+  font-size: 12px;
+}
+
+.left-blue {
   color: #009596;
-  width: 50%; 
+  width: 50%;
   text-align: left;
-  border-bottom: solid rgb(189, 186, 186);
   font-size: 12px;
 }
 
-.right-blue{
-  color:#005F60;
-  width: 50%; 
+.right-blue {
+  color: #005f60;
+  width: 50%;
   text-align: right;
-  border-bottom:  solid rgb(189, 186, 186);
   font-size: 12px;
 }
 
-.left-yellow{
-  color: #F4C145;
-  width: 50%; 
+.left-yellow {
+  color: #f4c145;
+  width: 50%;
   text-align: left;
-  border-bottom: solid rgb(189, 186, 186);
   font-size: 12px;
 }
 
-.right-yellow{
+.right-yellow {
   color: rgb(143, 71, 0);
-  width: 50%; 
+  width: 50%;
   text-align: right;
-  border-bottom:  solid rgb(189, 186, 186);
   font-size: 12px;
 }
 
-
-
-.card-percentage{
-  color: #72767B;
+.card-percentage {
+  color: #72767b;
 }
-  
-.amount{
+
+.amount {
   color: gray;
 }

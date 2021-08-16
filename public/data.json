@@ -3,40 +3,40 @@
       {
          "chart": {
             "name": "REVENUE",
+            "color": "green",
             "count": "200.000€",
+            "number1": "120.000€",
+            "number2": "80.000€",
             "text1": "Tablet",
             "text2": "Smartphone",
             "percentage1": "60",
-            "percentage2": "40",
-            "number1": "120.000€",
-            "number2": "80.000€",
-            "color": "green"
+            "percentage2": "40"
          }
       },
       {
          "chart": {
             "name": "IMPRESIONS",
+            "color": "blue",
             "count": "50.000.000",
+            "number1": "20.000.000",
+            "number2": "30.000.000",
             "text1": "Tablet",
             "text2": "Smartphone",
             "percentage1": "40",
-            "percentage2": "60",
-            "number1": "20.000.000",
-            "number2": "30.000.000",
-            "color": "blue"
+            "percentage2": "60"
          }
       },
       {
          "chart": {
             "name": "VISITS",
+            "color": "yellow",
             "count": "50.000.000",
+            "number1": "480.000.000",
+            "number2": "120.000.000",
             "text1": "Tablet",
             "text2": "Smartphone",
             "percentage1": "80",
-            "percentage2": "20",
-            "number1": "480.000.000",
-            "number2": "120.000.000",
-            "color": "yellow"
+            "percentage2": "20"
          }
       }
    ]

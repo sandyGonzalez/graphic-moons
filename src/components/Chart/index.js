@@ -4,7 +4,15 @@ import { green, blue, yellow } from '../../config/constants';
 import './style.css';
 
 
-  const Chart = ({name, count, text1, text2, percentage1, percentage2, color}) => {
+  const Chart = ({
+    name,
+    color,
+    count,
+    text1,
+    text2,
+    percentage1,
+    percentage2,
+  }) => {
     const chartColor = (color) => {
       switch (color) {
         case green:
@@ -18,22 +26,27 @@ import './style.css';
       }
     };
 
-     return(
+    return (
       <div className="chart-container">
-          <ChartDonut
-        constrainToVisibleArea={true}
-        data={[{},{},{ x: text2, y: percentage2 },{ x: text1 , y: percentage1},]}
-        donutOrientation="top"
-        height={275}
-        subTitle = {name}
-        subTitlePosition="center"
-        title={count}
-        ariaTitle="bottom"
-        themeColor={chartColor(color)}
-        width={250}
-      />  
+        <ChartDonut
+          constrainToVisibleArea={true}
+          data={[
+            {},
+            {},
+            { x: text2, y: percentage2 },
+            { x: text1, y: percentage1 },
+          ]}
+          donutOrientation="top"
+          height={275}
+          subTitle={name}
+          subTitlePosition="center"
+          title={count}
+          ariaTitle="bottom"
+          themeColor={chartColor(color)}
+          width={250}
+        />
       </div>
-    )
-  }
+    );
+  };
 
-  export default Chart
+  export default Chart;
