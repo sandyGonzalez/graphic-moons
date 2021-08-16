@@ -1,0 +1,43 @@
+{
+   "results": [
+      {
+         "chart": {
+            "name": "REVENUE",
+            "count": "200.000€",
+            "text1": "Tablet",
+            "text2": "Smartphone",
+            "percentage1": "60",
+            "percentage2": "40",
+            "number1": "120.000€",
+            "number2": "80.000€",
+            "color": "green"
+         }
+      },
+      {
+         "chart": {
+            "name": "IMPRESIONS",
+            "count": "50.000.000",
+            "text1": "Tablet",
+            "text2": "Smartphone",
+            "percentage1": "40",
+            "percentage2": "60",
+            "number1": "20.000.000",
+            "number2": "30.000.000",
+            "color": "blue"
+         }
+      },
+      {
+         "chart": {
+            "name": "VISITS",
+            "count": "50.000.000",
+            "text1": "Tablet",
+            "text2": "Smartphone",
+            "percentage1": "80",
+            "percentage2": "20",
+            "number1": "480.000.000",
+            "number2": "120.000.000",
+            "color": "yellow"
+         }
+      }
+   ]
+}

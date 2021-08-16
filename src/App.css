@@ -1,0 +1,14 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+.App {
+ display: flex;
+ justify-content: space-around;
+ align-content: center;
+ align-items: center;
+ justify-items: center;
+ flex-wrap: wrap;
+ margin: 7%;
+}
+
