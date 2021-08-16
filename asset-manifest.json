@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/sandyGonzalez/graphic-moons.git/static/css/main.84adb296.chunk.css",
+    "main.js": "/sandyGonzalez/graphic-moons.git/static/js/main.dbb3cd8c.chunk.js",
+    "main.js.map": "/sandyGonzalez/graphic-moons.git/static/js/main.dbb3cd8c.chunk.js.map",
+    "runtime-main.js": "/sandyGonzalez/graphic-moons.git/static/js/runtime-main.4e24790c.js",
+    "runtime-main.js.map": "/sandyGonzalez/graphic-moons.git/static/js/runtime-main.4e24790c.js.map",
+    "static/js/2.5300ca0f.chunk.js": "/sandyGonzalez/graphic-moons.git/static/js/2.5300ca0f.chunk.js",
+    "static/js/2.5300ca0f.chunk.js.map": "/sandyGonzalez/graphic-moons.git/static/js/2.5300ca0f.chunk.js.map",
+    "index.html": "/sandyGonzalez/graphic-moons.git/index.html",
+    "static/css/main.84adb296.chunk.css.map": "/sandyGonzalez/graphic-moons.git/static/css/main.84adb296.chunk.css.map",
+    "static/js/2.5300ca0f.chunk.js.LICENSE.txt": "/sandyGonzalez/graphic-moons.git/static/js/2.5300ca0f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e24790c.js",
+    "static/js/2.5300ca0f.chunk.js",
+    "static/css/main.84adb296.chunk.css",
+    "static/js/main.dbb3cd8c.chunk.js"
+  ]
+}
